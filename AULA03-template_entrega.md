@@ -24,8 +24,7 @@ SET visitas:home 0
 
 **Print da tela:**
 
-![passo 1 - criar contador]
-(image1.jpeg)
+![passo 1 - criar contador](image1.jpeg)
 
 ---
 
