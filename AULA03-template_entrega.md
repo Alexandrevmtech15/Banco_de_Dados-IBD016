@@ -3,8 +3,8 @@
 **Disciplina:** IBD-016 — Banco de Dados Não Relacional
 **Nome do aluno:** _Alexandre Henrique de Souza_
 **Data de execução:** 04/09/2026 
-**Nome do banco criado no Redis Cloud:** _(preencha aqui)_
-**Ferramenta utilizada:** _(RedisInsight / redis-cli / Google Colab — preencha aqui)_
+**Nome do banco criado no Redis Cloud:** ibd016-aula3
+**Ferramenta utilizada:** (RedisInsight / redis-cli / Google Colab)
 
 > Instruções: para cada passo, execute o comando indicado (via RedisInsight, `redis-cli` ou Google Colab) e cole a saída real obtida no campo correspondente, adicionando o print da tela logo abaixo. Se estiver usando o **Google Colab**, o print pode ser da célula executada com seu código e a saída exibida abaixo dela — não é necessário usar a sintaxe nativa do Redis, os métodos Python (`r.set()`, `r.get()`, etc.) são aceitos normalmente. Para inserir uma imagem no GitHub, arraste o arquivo de print para dentro desta caixa de edição — o link é gerado automaticamente no formato `![descrição](nome-da-imagem.png)`.
 
