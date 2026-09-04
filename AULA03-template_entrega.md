@@ -19,12 +19,12 @@ SET visitas:home 0
 
 **Saída obtida:**
 ```
-(cole aqui a saída do comando)
+(True)
 ```
 
 **Print da tela:**
 
-![passo 1 - criar contador](cole-o-nome-da-imagem-aqui.png)
+![passo 1 - criar contador](Captura de tela_4-9-2026_20226_colab.research.google.com)
 
 ---
 
