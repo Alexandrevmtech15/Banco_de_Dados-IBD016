@@ -43,12 +43,12 @@ GET visitas:home
 
 **Saída obtida (valor final do GET):**
 ```
-(cole aqui a saída do comando)
+(5, 5)
 ```
 
 **Print da tela:**
 
-![passo 2 - simular acessos](cole-o-nome-da-imagem-aqui.png)
+![passo 2 - simular acessos](image2.jpeg)
 
 ---
 
