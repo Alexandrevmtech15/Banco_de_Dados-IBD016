@@ -1,8 +1,8 @@
 # Entrega — Atividade Prática Aula 3 (Redis Cloud)
 
 **Disciplina:** IBD-016 — Banco de Dados Não Relacional
-**Nome do aluno:** _(preencha aqui)_
-**Data de execução:** _(preencha aqui)_
+**Nome do aluno:** _Alexandre Henrique de Souza_
+**Data de execução:** 04/09/2026 
 **Nome do banco criado no Redis Cloud:** _(preencha aqui)_
 **Ferramenta utilizada:** _(RedisInsight / redis-cli / Google Colab — preencha aqui)_
 
