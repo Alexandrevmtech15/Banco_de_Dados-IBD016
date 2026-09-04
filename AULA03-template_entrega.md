@@ -24,7 +24,8 @@ SET visitas:home 0
 
 **Print da tela:**
 
-![passo 1 - criar contador](Captura de tela_4-9-2026_20226_colab.research.google.com)
+![passo 1 - criar contador]
+( Captura de tela_4-9-2026_20226_colab.research.google.com )
 
 ---
 
