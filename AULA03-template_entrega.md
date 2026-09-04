@@ -19,13 +19,13 @@ SET visitas:home 0
 
 **Saída obtida:**
 ```
-(True)
+(True, 0)
 ```
 
 **Print da tela:**
 
 ![passo 1 - criar contador]
-( Captura de tela_4-9-2026_20226_colab.research.google.com )
+(Captura de tela_4-9-2026_20226_colab.research.google.com)
 
 ---
 
