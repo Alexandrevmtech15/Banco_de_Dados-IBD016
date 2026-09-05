@@ -80,7 +80,7 @@ HGET usuario:1 nome
 
 **Saída obtida:**
 ```
-(cole aqui a saída do comando)
+(Alexandre Henrique)
 ```
 
 **Print da tela:**
