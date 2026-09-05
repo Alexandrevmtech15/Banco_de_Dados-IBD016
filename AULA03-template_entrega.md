@@ -94,14 +94,14 @@ HGET usuario:1 nome
 _Explique com suas palavras: por que o comando `INCR` é útil para um contador, e por que faz sentido usar `EXPIRE` nesse cenário?_
 
 ```
-(escreva aqui sua resposta)
-```
+(O comando INCR é muito útil para contadores pois deixa tudo mais rápido e eficaz, não precisamos utilizar varias vezes o get ou set para adicionar novas contagem, já o EXPIRE ajuda no quesito update do banco, encerrando um contador por via do timer, abrindo espaço para novos contadores, aumentado eficiência e otimização das locações de memória.)
+``` 
 
 ---
 
 ## Checklist antes de enviar
 
-- [ ] Todos os 4 passos têm comando, saída e print preenchidos
-- [ ] As imagens abrem corretamente ao visualizar o arquivo `.md` (confira antes de enviar)
-- [ ] A reflexão final do Passo 5 foi respondida
-- [ ] Nome do aluno e data preenchidos no topo do arquivo
+- [x] Todos os 4 passos têm comando, saída e print preenchidos
+- [x] As imagens abrem corretamente ao visualizar o arquivo `.md` (confira antes de enviar)
+- [x] A reflexão final do Passo 5 foi respondida
+- [x] Nome do aluno e data preenchidos no topo do arquivo
