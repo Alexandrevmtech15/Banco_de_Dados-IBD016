@@ -61,12 +61,12 @@ TTL visitas:home
 
 **Saída obtida:**
 ```
-(cole aqui a saída do comando)
+(True, 298)
 ```
 
 **Print da tela:**
 
-![passo 3 - expiração TTL](cole-o-nome-da-imagem-aqui.png)
+![passo 3 - expiração TTL](image3)
 
 ---
 
@@ -85,7 +85,7 @@ HGET usuario:1 nome
 
 **Print da tela:**
 
-![passo 4 - hash usuario](cole-o-nome-da-imagem-aqui.png)
+![passo 4 - hash usuario](image4)
 
 ---
 
