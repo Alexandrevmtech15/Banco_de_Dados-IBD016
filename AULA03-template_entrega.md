@@ -66,7 +66,7 @@ TTL visitas:home
 
 **Print da tela:**
 
-![passo 3 - expiração TTL](image3)
+![passo 3 - expiração TTL](image3.jpeg)
 
 ---
 
@@ -85,7 +85,7 @@ HGET usuario:1 nome
 
 **Print da tela:**
 
-![passo 4 - hash usuario](image4)
+![passo 4 - hash usuario](image4.jpeg)
 
 ---
 
